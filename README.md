@@ -1,18 +1,19 @@
-# 👋 Hi, I’m Ubaid
+# 👋 Hi, I’m Ubaid  
 
 ## 🚀 About Me  
-I'm a passionate **Full Stack Developer** with **1 year of experience** in:  
+I’m a **Full Stack Developer** with **1 year of professional experience** in:  
 - 🖥 **Frontend:** React.js, Next.js  
 - 💻 **Backend:** Node.js, PHP  
 - 🛠 **Database:** MySQL, MongoDB  
 - 🔥 **Other Skills:** API Development, Authentication, Cloud Integration  
 
-## 🌱 Currently Learning  
-- Advanced **Next.js & Server-side Rendering (SSR)**  
-- **Microservices Architecture**  
+## 💼 Work Experience  
+- **Full Stack Developer** at [Company Name] *(1 Year)*  
+- Worked on **web applications, REST APIs, and scalable architectures**  
+- Experience in **building secure and optimized applications**  
 
 ## 💡 Looking to Collaborate  
-I’m open to working on **open-source projects, freelance opportunities, and startups**!  
+Open to **freelance projects, open-source contributions, and new opportunities**!  
 
 ## 📫 Connect with Me  
 - **Email:** ubaid@example.com  
@@ -20,4 +21,4 @@ I’m open to working on **open-source projects, freelance opportunities, and st
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
 
 ## ⚡ Fun Fact  
-I can turn **coffee ☕ into clean & optimized code!** 😄  
+I believe in **writing clean & efficient code, but debugging takes twice the time! 😅**  
