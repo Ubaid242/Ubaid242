@@ -8,7 +8,7 @@ I’m a **Full Stack Developer** with **1 year of professional experience** in:
 - 🔥 **Other Skills:** API Development, Authentication, Cloud Integration  
 
 ## 💼 Work Experience  
-- **Full Stack Developer** at [Company Name] *(1 Year)*  
+- **Full Stack Developer** at TriA-Tech-Solution *(1 Year)*  
 - Worked on **web applications, REST APIs, and scalable architectures**  
 - Experience in **building secure and optimized applications**  
 
