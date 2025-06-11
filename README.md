@@ -2,8 +2,8 @@
 
 ## 🚀 About Me  
 I’m a **Full Stack Developer** with **1 year of professional experience** in:  
-- 🖥 **Frontend:** React.js, Next.js  
-- 💻 **Backend:** Node.js, PHP  
+- 🖥 **Frontend:** React.js, Next.js, Angular  
+- 💻 **Backend:** Node.js, PHP, Nest Js  
 - 🛠 **Database:** MySQL, MongoDB  
 - 🔥 **Other Skills:** API Development, Authentication, Cloud Integration  
 
