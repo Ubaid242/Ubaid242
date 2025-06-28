@@ -68,5 +68,4 @@ I'm always open to:
 
 ---
 
-![Ubaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ubaid242&show_icons=true&theme=tokyonight&hide_title=false)
 
