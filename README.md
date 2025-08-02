@@ -13,7 +13,7 @@
 
 🚀 I'm a **Full Stack Developer** with **1+ year of real-world experience** building fast, secure, and scalable web applications using the **MERN**, **LAMP** stacks, and **popular CMS platforms**.
 
-🧠 I believe in writing **clean, modular** code with a strong focus on performance, reusability, and **developer-friendly architecture**. From APIs to CMS themes and SEO strategies — I build with purpose and precision.
+🧠 I believe in writing **clean, modular** code with a strong focus on performance, reusability, and **developer-friendly architecture**. From APIs to CMS themes, SEO strategies, and Linux-based server deployments — I build with purpose and precision.
 
 ---
 
@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=githubactions&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
 </p>
 <p align="center">
   <!-- CMS & SEO -->
@@ -68,6 +69,7 @@
 - Managed and optimized databases including **MySQL**, **MongoDB**, **PostgreSQL**
 - Used **Docker** for containerization and **CI/CD** for automated deployments
 - Implemented advanced **SEO** strategies and on-page optimizations
+- Worked on **Linux-based** development and deployment environments
 
 ---
 
