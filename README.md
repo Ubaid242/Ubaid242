@@ -4,16 +4,24 @@
 </h1>
 
 <p align="center">
-  🚀 Full Stack Developer | CMS Specialist | SEO Expert | Problem Solver
+  🚀 Full Stack Developer | CMS Engineer | SEO Strategist | Clean Code Enthusiast
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🚀 I'm a **Full Stack Developer** with **1+ year of real-world experience** building fast, secure, and scalable web applications using the **MERN**, **LAMP** stacks, and **popular CMS platforms**.
+I'm a passionate **Full Stack Developer** with **1+ year of hands-on experience** delivering modern, scalable, and high-performance web solutions using **MERN**, **LAMP**, and leading **CMS platforms** like WordPress and Shopify.
 
-🧠 I believe in writing **clean, modular** code with a strong focus on performance, reusability, and **developer-friendly architecture**. From APIs to CMS themes, SEO strategies, and Linux-based server deployments — I build with purpose and precision.
+🔍 My expertise lies in creating dynamic frontends, powerful APIs, SEO-optimized CMS integrations, and seamless deployment pipelines on **Linux-based environments**.
+
+💡 I architect systems that are:
+- Cleanly coded
+- Secure & performant
+- SEO-friendly
+- Built to scale
+
+From UI/UX to backend architecture, I'm driven by the mindset of shipping **purposeful, maintainable, and production-grade** code.
 
 ---
 
@@ -26,7 +34,11 @@
   <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Material%20UI-0081CB?logo=mui&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
 </p>
+
 <p align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
@@ -35,12 +47,14 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
 </p>
+
 <p align="center">
   <!-- Database -->
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
 </p>
+
 <p align="center">
   <!-- Tools -->
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
@@ -50,6 +64,7 @@
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
 </p>
+
 <p align="center">
   <!-- CMS & SEO -->
   <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
@@ -63,13 +78,13 @@
 
 ### 🏢 Full Stack Developer @ TriA-Tech-Solution *(1+ Year)*
 
-- Built responsive, API-driven apps using **React**, **Next.js**, **Angular**
-- Developed CMS-based solutions with **WordPress** and **Shopify**
-- Designed backend APIs using **Node.js**, **Laravel**, and **PHP**
-- Managed and optimized databases including **MySQL**, **MongoDB**, **PostgreSQL**
-- Used **Docker** for containerization and **CI/CD** for automated deployments
-- Implemented advanced **SEO** strategies and on-page optimizations
-- Worked on **Linux-based** development and deployment environments
+- Engineered scalable SPAs and dynamic web apps using **React**, **Next.js**, and **Angular**
+- Built custom CMS themes and integrations with **WordPress** and **Shopify**
+- Designed REST APIs with **Node.js**, **Laravel**, and **PHP**
+- Administered relational and NoSQL databases including **MySQL**, **MongoDB**, and **PostgreSQL**
+- Created efficient deployment pipelines using **Docker** and **GitHub Actions (CI/CD)**
+- Applied **white-hat SEO** best practices for visibility and performance
+- Deployed and maintained apps on **Linux** environments with shell scripting and security in mind
 
 ---
 
@@ -82,23 +97,23 @@
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let’s Collaborate
 
-I'm open to:
-- 🌟 Open Source Contributions  
-- 💡 Building Side Projects  
-- 🛠️ Freelance or Remote Collaboration  
-- 🖥️ CMS Projects (WordPress/Shopify)
-- 📈 SEO Strategy & Implementation
+💬 I'm open to exciting opportunities including:
+- ✨ Open Source Projects  
+- 🛠️ Freelance Web Development  
+- 🧩 CMS Theme/Plugin Development  
+- 📈 Technical SEO Strategy  
+- 🌐 Remote Engineering Roles  
 
-> _“The best code is clean, simple, and speaks for itself.”_
+> _“Great software is built with clean logic, purposeful design, and attention to detail.”_
 
 ---
 
 ## ⚡ Fun Fact
 
-> I love writing clean & efficient code...  
-> But debugging it still keeps me humble! 😅
+> I debug like Sherlock Holmes.  
+> But the bug always hides like a ninja! 😄
 
 ---
 
