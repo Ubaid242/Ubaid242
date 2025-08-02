@@ -1,28 +1,25 @@
 <!-- Typing animation header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Ubaid+Raza;Full+Stack+Web+Developer;MERN+%2F+LAMP+Stack+Specialist;Clean+Code+Advocate+%F0%9F%92%AA" alt="Typing animation" />
-</h1>
-
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Ubaid+Raza;Full+Stack+Web+Developer;MERN+%2F+LAMP+Stack+Specialist;CMS+%2F+SEO+Expert;Clean+Code+Advocate+%F0%9F%92%AA" alt="Typing animation" />
 </h1>
 
 <p align="center">
-  🚀 Full Stack Developer | Problem Solver | DevOps Learner
+  🚀 Full Stack Developer | CMS Specialist | SEO Expert | Problem Solver
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🚀 I'm a **Full Stack Developer** with **1+ year of real-world experience** building fast, secure, and scalable web applications using the **MERN** and **LAMP** stacks.
+🚀 I'm a **Full Stack Developer** with **1+ year of real-world experience** building fast, secure, and scalable web applications using the **MERN**, **LAMP** stacks, and **popular CMS platforms**.
 
-🧠 I believe in writing **clean, modular** code with a strong focus on performance, reusability, and **developer-friendly architecture**. Whether it's crafting REST APIs, optimizing frontend performance, or deploying with Docker — I build with purpose and precision.
+🧠 I believe in writing **clean, modular** code with a strong focus on performance, reusability, and **developer-friendly architecture**. From APIs to CMS themes and SEO strategies — I build with purpose and precision.
 
 ---
 
 ## 🔧 Tech Stack
 
-### 🚀 Frontend | 🧠 Backend | 💾 Databases | ⚙️ Tools & DevOps
+### 🚀 Frontend | 🧠 Backend | 💾 Databases | ⚙️ Tools & DevOps | 🛠️ CMS & SEO
 
 <p align="center">
   <!-- Frontend -->
@@ -52,6 +49,12 @@
   <img src="https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=githubactions&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
 </p>
+<p align="center">
+  <!-- CMS & SEO -->
+  <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Shopify-96BF48?logo=shopify&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SEO%20Expert-4285F4?logo=google&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
@@ -60,11 +63,11 @@
 ### 🏢 Full Stack Developer @ TriA-Tech-Solution *(1+ Year)*
 
 - Built responsive, API-driven apps using **React**, **Next.js**, **Angular**
-- Created secure backend APIs with **Node.js**, **Laravel**
-- Designed scalable DB schemas for **MySQL**, **MongoDB**, and **PostgreSQL**
-- Used **Docker** to containerize full stack projects
-- Managed version control with **Git/GitHub**, automated deployments with **CI/CD**
-- Worked on **authentication**, **code optimization**, and **real-world business logic**
+- Developed CMS-based solutions with **WordPress** and **Shopify**
+- Designed backend APIs using **Node.js**, **Laravel**, and **PHP**
+- Managed and optimized databases including **MySQL**, **MongoDB**, **PostgreSQL**
+- Used **Docker** for containerization and **CI/CD** for automated deployments
+- Implemented advanced **SEO** strategies and on-page optimizations
 
 ---
 
@@ -82,7 +85,9 @@
 I'm open to:
 - 🌟 Open Source Contributions  
 - 💡 Building Side Projects  
-- 🛠️ Freelance or Remote Collaboration
+- 🛠️ Freelance or Remote Collaboration  
+- 🖥️ CMS Projects (WordPress/Shopify)
+- 📈 SEO Strategy & Implementation
 
 > _“The best code is clean, simple, and speaks for itself.”_
 
