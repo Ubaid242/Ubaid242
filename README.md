@@ -97,6 +97,7 @@ From UI/UX to backend architecture, I'm driven by the mindset of shipping **purp
 <p align="center">
   <a href="mailto:uraza4086@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
   <a href="https://github.com/Ubaid242"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/ubaid-raza-41a238323/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
