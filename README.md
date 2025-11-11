@@ -71,7 +71,7 @@ From UI/UX to backend architecture, I'm driven by the mindset of shipping **purp
   <!-- CMS & SEO -->
   <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Shopify-96BF48?logo=shopify&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-SEO%20Expert-4285F4?logo=google&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SEO-4285F4?logo=google&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
