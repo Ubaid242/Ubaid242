@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ubaid%20Raza&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CMS%20Engineer%20%7C%20SEO%20Strategist&descAlignY=60&descSize=18&descColor=ffffff" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=🚀+Full+Stack+Web+Developer;⚡+MERN+%2F+LAMP+Stack+Specialist;🧩+CMS+%2F+SEO+Expert;🔥+TypeScript+%7C+Next.js+%7C+NestJS;🐳+Docker+%7C+CI%2FCD+%7C+Linux+DevOps;💡+Clean+Code+%7C+Scalable+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&height=60&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+%2F+LAMP+Stack+Specialist+%E2%9A%A1;CMS+%2F+SEO+Expert+%F0%9F%A7%A9;TypeScript+%7C+Next.js+%7C+NestJS+%F0%9F%94%A5;Docker+%7C+CI%2FCD+%7C+Linux+DevOps+%F0%9F%90%B3;Clean+Code+%7C+Scalable+Architecture+%F0%9F%92%A1" alt="Typing SVG" />
 
 <br/>
 
@@ -92,9 +92,7 @@ const ubaidRaza = {
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaid242&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" />
-&nbsp;&nbsp;
-<img width="54%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ubaid242&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true&area_color=1a3a5c" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ubaid242&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&mode=weekly" />
 
 </div>
 
@@ -135,15 +133,53 @@ const ubaidRaza = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake & Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ubaid242/Ubaid242/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ubaid242/Ubaid242/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Ubaid242/Ubaid242/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<!-- Live Contribution Calendar — works immediately, no setup needed -->
+<img src="https://ghchart.rshah.org/00d4ff/Ubaid242" alt="Ubaid's GitHub Contribution Chart" width="100%" />
+
+<br/><br/>
+
+<!-- Full-width Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ubaid242&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00d4ff&area=true&area_color=1a3a5c&hide_border=true&radius=8" alt="Activity Graph" />
+
+<br/>
+
+<!-- Snake animation activates after running the workflow below -->
+<details>
+<summary>⚙️ Enable Animated Snake (click to expand)</summary>
+<br/>
+Create <code>.github/workflows/snake.yml</code> in this repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Ubaid242
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+After the workflow runs once, this section will auto-show your animated snake.
+
+</details>
 
 </div>
 
@@ -153,9 +189,8 @@ const ubaidRaza = {
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-> 💡 *WakaTime stats will appear here once WakaTime is configured*
-<!--END_SECTION:waka-->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ubaid242&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true&rank_icon=percentile" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubaid242&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=10" />
 
 </div>
 
