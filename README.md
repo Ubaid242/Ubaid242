@@ -29,7 +29,7 @@
 const ubaidRaza = {
   role: "Full Stack Developer",
   company: "TriA-Tech-Solution",
-  experience: "1+ Years",
+  experience: "2+ Years",
   location: "🌍 Remote Ready",
 
   expertise: [
