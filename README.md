@@ -135,60 +135,7 @@ const ubaidRaza = {
 | 🔍 **SEO** | Technical SEO, structured data, performance optimization |
 | 🐧 **Linux** | Server deployment, shell scripting, security hardening |
 
----
 
-## 🐍 Contribution Snake & Activity
-
-<div align="center">
-
-<!-- Live Contribution Calendar — works immediately, no setup needed -->
-<img src="https://ghchart.rshah.org/00d4ff/Ubaid242" alt="Ubaid's GitHub Contribution Chart" width="100%" />
-
-<br/><br/>
-
-<!-- Full-width Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ubaid242&bg_color=0d1117&color=00d4ff&line=00d4ff&point=00d4ff&area=true&area_color=1a3a5c&hide_border=true&radius=8" alt="Activity Graph" />
-
-<br/>
-
-<!-- Snake animation activates after running the workflow below -->
-<details>
-<summary>⚙️ Enable Animated Snake (click to expand)</summary>
-<br/>
-Create <code>.github/workflows/snake.yml</code> in this repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Ubaid242
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-After the workflow runs once, this section will auto-show your animated snake.
-
-</details>
-
-</div>
-
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
