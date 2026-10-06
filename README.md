@@ -1,65 +1,186 @@
-# Ubaid Raza
+<div align="center">
 
-**Full Stack Developer** · Angular · NestJS · TypeScript
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ubaid%20Raza&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CMS%20Engineer%20%7C%20SEO%20Strategist&descAlignY=60&descSize=18&descColor=ffffff" />
 
-Full-stack developer with 3+ years of experience building multi-tenant SaaS and e-commerce platforms, from admin portals and storefronts to the APIs behind them. Currently working on microservices.
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&height=60&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+%2F+LAMP+Stack+Specialist+%E2%9A%A1;CMS+%2F+SEO+Expert+%F0%9F%A7%A9;TypeScript+%7C+Next.js+%7C+NestJS+%F0%9F%94%A5;Docker+%7C+CI%2FCD+%7C+Linux+DevOps+%F0%9F%90%B3;Clean+Code+%7C+Scalable+Architecture+%F0%9F%92%A1" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubaid-raza-41a238323/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:uraza4086@gmail.com)
-[![Followers](https://img.shields.io/github/followers/Ubaid242?style=flat-square&label=GitHub%20followers&logo=github&color=181717)](https://github.com/Ubaid242?tab=followers)
+<br/>
+
+<!-- Visitor Counter + Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=Ubaid242&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Ubaid242?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-00d4ff?style=for-the-badge&labelColor=0d1117" />
+
+</div>
 
 ---
 
-## What I do
+## 🧠 About Me
 
-- Build multi-tenant SaaS platforms: admin portals, store and theme customizers, settings panels and e-commerce storefronts
-- Design REST APIs with NestJS and TypeORM, including DTO validation, role-based access and payment gateway integrations
-- Build component-driven UIs with Angular, PrimeNG and Tailwind CSS, and public-facing websites with Next.js
-- Work on microservices and service-to-service communication
+<table>
+<tr>
+<td valign="top" width="55%">
 
-## Experience
+```typescript
+const ubaidRaza = {
+  role: "Full Stack Developer",
+  company: "TriA-Tech-Solution",
+  experience: "2+ Years",
+  location: "🌍 Remote Ready",
 
-| Company | Role | Duration |
-|---|---|---|
-| TriA-Tech-Solution | Full Stack Developer | 3+ years · Remote |
+  expertise: [
+    "MERN Stack",
+    "LAMP Stack",
+    "CMS Engineering",
+    "SEO Strategy",
+    "DevOps & CI/CD",
+  ],
 
-## Tech Stack
+  currentlyLearning: ["Microservices", "AWS", "GraphQL"],
+  openTo: ["Freelance", "Remote Roles", "Open Source"],
 
-**Frontend**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-6366F1?style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  funFact: "I debug like Sherlock Holmes 🕵️",
+  motto: "Clean code. Purposeful design. Built to scale.",
+};
+```
 
-**Backend**  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-262627?style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+</td>
+<td valign="middle" width="45%" align="center">
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding GIF" />
 
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</td>
+</tr>
+</table>
 
-## Let's Connect
+---
 
-Open to remote roles, freelance work and open source collaboration.
+## 🛠️ Tech Arsenal
 
-- Email: [uraza4086@gmail.com](mailto:uraza4086@gmail.com)
-- LinkedIn: [ubaid-raza](https://www.linkedin.com/in/ubaid-raza-41a238323/)
+<div align="center">
+
+### ⚡ Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,bootstrap,materialui&theme=dark&perline=10" />
+
+### 🔧 Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel&theme=dark&perline=10" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark&perline=10" />
+
+### ⚙️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman,vscode,nginx&theme=dark&perline=10" />
+
+### 🏗️ CMS & SEO
+
+<p>
+  <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Shopify-96BF48?logo=shopify&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Technical%20SEO-4285F4?logo=google&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Ubaid242&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ubaid242&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║          🏢  Full Stack Developer @ TriA-Tech-Solution            ║
+║                      ⏳  2+ Year  |  Remote                      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+| Area | What I Built |
+|------|-------------|
+| 🖥️ **Frontend** | Scalable SPAs with **React**, **Next.js**, **Angular** |
+| 🔌 **Backend** | REST APIs via **Node.js**, **NestJS**, **Laravel**, **PHP** |
+| 🗄️ **Databases** | Schema design & optimization in **MySQL**, **MongoDB**, **PostgreSQL** |
+| 🧩 **CMS** | Custom themes & integrations for **WordPress** and **Shopify** |
+| 🚀 **DevOps** | Docker pipelines, **CI/CD** via GitHub Actions |
+| 🔍 **SEO** | Technical SEO, structured data, performance optimization |
+| 🐧 **Linux** | Server deployment, shell scripting, security hardening |
+
+
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:uraza4086@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Ubaid242)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ubaid-raza-41a238323/)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Open to Exciting Opportunities
+
+| 🌟 | Opportunity |
+|---|---|
+| ✨ | Open Source Projects |
+| 🛠️ | Freelance Web Development |
+| 🧩 | CMS Theme / Plugin Development |
+| 📈 | Technical SEO Strategy |
+| 🌐 | Remote Engineering Roles |
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Fun Fact
+
+```
+🔍 I debug like Sherlock Holmes...
+        but the bug always hides like a ninja! 🥷
+```
+
+> _"Great software is built with clean logic, purposeful design, and attention to detail."_
+
+</div>
+
+---
+
+<!-- Animated Footer -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00d4ff&animation=twinkling" />
+</div>
