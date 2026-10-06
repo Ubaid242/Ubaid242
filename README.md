@@ -1,57 +1,191 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ubaid%20Raza&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CMS%20Engineer%20%7C%20SEO%20Strategist&descAlignY=60&descSize=18&descColor=ffffff" />
+# 👋 Hey, I'm Ubaid Raza
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&height=60&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;MERN+%2F+LAMP+Stack+Specialist+%E2%9A%A1;CMS+%2F+SEO+Expert+%F0%9F%A7%A9;TypeScript+%7C+Next.js+%7C+NestJS+%F0%9F%94%A5;Docker+%7C+CI%2FCD+%7C+Linux+DevOps+%F0%9F%90%B3;Clean+Code+%7C+Scalable+Architecture+%F0%9F%92%A1" alt="Typing SVG" />
+### Full Stack Engineer · SaaS & CMS Architect · AI Automation
 
-<br/>
+<p>
+  <a href="https://github.com/Ubaid242">
+    <img src="https://img.shields.io/github/followers/Ubaid242?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117" alt="GitHub Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ubaid242&label=Profile%20Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<!-- Visitor Counter + Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Ubaid242&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Ubaid242?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-00d4ff?style=for-the-badge&labelColor=0d1117" />
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=800&height=55&lines=Full+Stack+Engineer+%F0%9F%9A%80;React.js+%7C+Next.js+%7C+Angular;NestJS+%7C+Node.js+%7C+Laravel;SaaS+%7C+CMS+%7C+E-Commerce;AI+Automation+%7C+SEO+%7C+DevOps;Building+Products+That+Scale+%E2%9A%A1" alt="Typing SVG" />
+</p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
+I'm a **Full Stack Engineer with 3+ years of experience** building modern web applications, SaaS platforms, CMS solutions, and e-commerce systems.
 
-```typescript
+I work across the complete product lifecycle — from **database architecture and backend APIs to frontend applications, deployment, SEO, and automation**.
+
+```ts
 const ubaidRaza = {
-  role: "Full Stack Developer",
+  role: "Full Stack Engineer",
+  experience: "3+ Years",
   company: "TriA-Tech-Solution",
-  experience: "2+ Years",
-  location: "🌍 Remote Ready",
 
-  expertise: [
-    "MERN Stack",
-    "LAMP Stack",
-    "CMS Engineering",
-    "SEO Strategy",
-    "DevOps & CI/CD",
+  frontend: [
+    "React.js",
+    "Next.js",
+    "Angular",
+    "TypeScript",
   ],
 
-  currentlyLearning: ["Microservices", "AWS", "GraphQL"],
-  openTo: ["Freelance", "Remote Roles", "Open Source"],
+  backend: [
+    "Node.js",
+    "NestJS",
+    "Laravel",
+    "REST APIs",
+  ],
 
-  funFact: "I debug like Sherlock Holmes 🕵️",
-  motto: "Clean code. Purposeful design. Built to scale.",
+  databases: [
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "Redis",
+  ],
+
+  architecture: [
+    "SaaS",
+    "Multi-Tenant Systems",
+    "CMS",
+    "E-Commerce",
+    "REST APIs",
+  ],
+
+  engineering: [
+    "Clean Architecture",
+    "SOLID",
+    "Database Design",
+    "Performance",
+    "Security",
+  ],
+
+  devOps: [
+    "Docker",
+    "Linux",
+    "GitHub Actions",
+    "AWS",
+    "Nginx",
+  ],
+
+  automation: [
+    "AI Automation",
+    "n8n",
+    "Workflow Automation",
+  ],
+
+  openTo: [
+    "Remote Engineering Roles",
+    "Freelance",
+    "Open Source",
+    "Interesting Products",
+  ],
 };
 ```
 
-</td>
-<td valign="middle" width="45%" align="center">
+> **I don't just build features — I build systems that are maintainable, scalable, and production-ready.**
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Coding GIF" />
+---
+
+## ⚡ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind,bootstrap&theme=dark&perline=9" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel&theme=dark&perline=9" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,nginx&theme=dark&perline=9" />
+</p>
+
+### DevOps & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,aws,postman,vscode&theme=dark&perline=9" />
+</p>
+
+### CMS · E-Commerce · Automation
+
+<p>
+<img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Shopify-96BF48?logo=shopify&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Technical%20SEO-4285F4?logo=google&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+## 🏗️ What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 SaaS Platforms
+
+* Multi-tenant applications
+* Tenant isolation
+* Role-based access control
+* Subscription-based systems
+* Admin dashboards
+* Scalable REST APIs
+
+</td>
+<td width="50%">
+
+### 🛍️ E-Commerce
+
+* Custom storefronts
+* Product/catalog systems
+* Shopping workflows
+* CMS-driven stores
+* Payment integrations
+* Performance optimization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧩 CMS & Site Builders
+
+* Custom CMS platforms
+* Theme systems
+* Page builders
+* Store customizers
+* Dynamic content management
+* WordPress / Shopify integrations
+
+</td>
+<td width="50%">
+
+### 🤖 Automation & AI
+
+* AI-powered workflows
+* n8n automation
+* API integrations
+* Business process automation
+* Developer productivity tooling
+* Intelligent content workflows
 
 </td>
 </tr>
@@ -59,44 +193,33 @@ const ubaidRaza = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💼 Professional Experience
 
-<div align="center">
+### 🏢 Full Stack Engineer — TriA-Tech-Solution
 
-### ⚡ Frontend
+**3+ Years · Remote**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,bootstrap,materialui&theme=dark&perline=10" />
+Working across frontend, backend, databases, infrastructure, and product architecture.
 
-### 🔧 Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel&theme=dark&perline=10" />
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&theme=dark&perline=10" />
-
-### ⚙️ DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman,vscode,nginx&theme=dark&perline=10" />
-
-### 🏗️ CMS & SEO
-
-<p>
-  <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Shopify-96BF48?logo=shopify&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Technical%20SEO-4285F4?logo=google&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" />
-</p>
-
-</div>
+| Area                 | Experience                                          |
+| -------------------- | --------------------------------------------------- |
+| 🎨 **Frontend**      | React.js, Next.js, Angular, TypeScript              |
+| ⚙️ **Backend**       | NestJS, Node.js, Laravel, PHP                       |
+| 🗄️ **Database**     | PostgreSQL, MySQL, MongoDB, Redis                   |
+| 🏗️ **Architecture** | SaaS, Multi-Tenant, CMS, E-Commerce                 |
+| 🔐 **Security**      | Authentication, Authorization, RBAC, API Security   |
+| 🚀 **DevOps**        | Docker, Linux, Nginx, CI/CD, AWS                    |
+| 🔄 **Automation**    | n8n, AI workflows, API automation                   |
+| 🔍 **SEO**           | Technical SEO, structured data, performance         |
+| 🧪 **Engineering**   | Clean Code, SOLID, REST APIs, scalable architecture |
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Ubaid242&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Ubaid242&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
 
 </div>
 
@@ -106,60 +229,81 @@ const ubaidRaza = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ubaid242&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ubaid242&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-## 💼 Professional Experience
+## 🧠 Currently Exploring
+
+```text
+Advanced PostgreSQL
+        ↓
+Transactions & Concurrency
+        ↓
+Scalable Backend Architecture
+        ↓
+Microservices & Distributed Systems
+        ↓
+Cloud Infrastructure & AWS
+        ↓
+AI Engineering & Automation
+```
+
+I'm particularly interested in understanding **why systems fail at scale**, not just how to make them work.
+
+---
+
+## 🛠️ Engineering Principles
+
+```text
+Clean Code
+    +
+Strong Types
+    +
+Clear Architecture
+    +
+Correct Database Design
+    +
+Security First
+    +
+Performance
+    +
+Automation
+    =
+Production-Ready Software
+```
+
+I prefer **simple solutions that remain maintainable as the system grows**.
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║          🏢  Full Stack Developer @ TriA-Tech-Solution            ║
-║                      ⏳  2+ Year  |  Remote                      ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<a href="mailto:uraza4086@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" />
+</a>
+
+<a href="https://github.com/Ubaid242">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/ubaid-raza-41a238323/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+</a>
 
 </div>
 
-| Area | What I Built |
-|------|-------------|
-| 🖥️ **Frontend** | Scalable SPAs with **React**, **Next.js**, **Angular** |
-| 🔌 **Backend** | REST APIs via **Node.js**, **NestJS**, **Laravel**, **PHP** |
-| 🗄️ **Databases** | Schema design & optimization in **MySQL**, **MongoDB**, **PostgreSQL** |
-| 🧩 **CMS** | Custom themes & integrations for **WordPress** and **Shopify** |
-| 🚀 **DevOps** | Docker pipelines, **CI/CD** via GitHub Actions |
-| 🔍 **SEO** | Technical SEO, structured data, performance optimization |
-| 🐧 **Linux** | Server deployment, shell scripting, security hardening |
-
-
-
-## 🤝 Let's Connect & Collaborate
+<br />
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:uraza4086@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Ubaid242)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ubaid-raza-41a238323/)
+### 💬 Open to
 
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💬 Open to Exciting Opportunities
-
-| 🌟 | Opportunity |
-|---|---|
-| ✨ | Open Source Projects |
-| 🛠️ | Freelance Web Development |
-| 🧩 | CMS Theme / Plugin Development |
-| 📈 | Technical SEO Strategy |
-| 🌐 | Remote Engineering Roles |
+**Remote Engineering Roles · Freelance · Open Source · SaaS Products · Interesting Collaborations**
 
 </div>
 
@@ -169,18 +313,20 @@ const ubaidRaza = {
 
 ### ⚡ Fun Fact
 
-```
-🔍 I debug like Sherlock Holmes...
-        but the bug always hides like a ninja! 🥷
+```text
+I don't chase bugs.
+
+I create environments where they eventually reveal themselves. 🕵️
 ```
 
-> _"Great software is built with clean logic, purposeful design, and attention to detail."_
+### 🚀 Build. Learn. Improve. Repeat.
 
 </div>
 
 ---
 
-<!-- Animated Footer -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00d4ff&animation=twinkling" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00d4ff&animation=twinkling" alt="Footer" />
+
 </div>
